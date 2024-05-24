@@ -34,7 +34,7 @@ SOFTWARE.
 
 ## Demonstration
 * Demonstration Image
-![Demo Images](images/Demo.jpg)
+![Demo Images](images/Demo.png)
 
 ## Improvement
 * We will start with HTML, CSS, JS and upgrade it to ReactJS
